@@ -7,8 +7,8 @@
   
   <!-- Typing Animasyonu -->
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Backend+Developer;Frontend+Developer;JavaScript+%7C+TypeScript+%7C+Python;Building+Scalable+Web+Apps" alt="Typing"/>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Backend+Developer;Frontend+Developer;Creating+Reliable+Full-Stack+Solutions" alt="Typing"/>
+</p>
 
   <!-- Badge Linkler -->
   <a href="https://www.linkedin.com/in/gulsevimbulbul/" target="_blank">
