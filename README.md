@@ -1,77 +1,93 @@
 <div align="center">
 
-  <!-- Wave Animasyonlu Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=G%C3%BCl&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software+Developer" width="100%"/>
+  <!-- 🌈 Renkli Wave Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=220&section=header&text=Hey%20There!%20👋&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-  <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/> I'm Gül</h1>
+  <!-- 👤 Profil & Merhaba -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&width=680&lines=Backend+Developer;Frontend+Developer;Full-Stack+Engineer;Building+Scalable+Apps" alt="Typing"/>
   
-  <!-- Typing Animasyonu -->
-  <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=4ECDC4&center=true&vCenter=true&width=700&lines=Backend+Developer;Frontend+Developer;Creating+Reliable+Full-Stack+Solutions" alt="Typing"/>
-</p>
+  <br/><br/>
 
-  <!-- Badge Linkler -->
+  <!-- 🔗 Social Links -->
   <a href="https://www.linkedin.com/in/gulsevimbulbul/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/>
   </a>
-  
   <a href="https://medium.com/@gulsevimblbl" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white&color=000000"/>
+  </a>
+  <a href="mailto:gulsevim@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335"/>
   </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Stats
 
-- 🎓 Computer Engineering Graduate  
-- 💼 Backend & Frontend Development Enthusiast  
-- 🔥 Passionate about **scalable systems** & **clean architecture**  
-- 🌱 Always learning new technologies  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulsevim&show_icons=true&theme=dracula&hide_border=true&count_private=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsevim&layout=donut&theme=dracula&hide_border=true&bg_color=0d1117&title_color=FF6B6B&icon_color=4ECDC4" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulsevim&theme=dracula&hide_border=true&background=0d1117&sideNums=FF6B6B&sideStripes=4ECDC4" alt="Streak"/>
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50"/>
-</div>
 
-### 🌐 Frontend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-</div>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs&style=for-the-badge"/>
+
+### 🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=react,vue,tailwind,redux,bootstrap&style=for-the-badge"/>
 
 ### ⚙️ Backend
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&style=for-the-badge"/>
 
 ### 🗄️ Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-</div>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&style=for-the-badge"/>
 
 ### 🔧 DevOps & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,aws&style=for-the-badge"/>
+
 </div>
 
 ---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gulsevim&theme=dracula&bg_color=0d1117&color=FF6B6B&line=4ECDC4&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+
+---
+
+## 🏆 GitHub Trophy
+
+<div align="center">
+  <img src="https://github-trophy.vercel.app/?username=gulsevim&theme=dracula&no-frame=true&column=6" alt="Trophy"/>
+</div>
+
+---
+
+## 📫 Reach Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gulsevimbulbul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@gulsevimblbl">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gulsevim&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Views"/>
+  
+  <p>⭐️ From <b>Gül</b> with passion</p>
+</div>
