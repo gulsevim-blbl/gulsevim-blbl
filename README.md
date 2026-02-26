@@ -43,21 +43,4 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gulsevim-blbl&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulsevim-blbl&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-</p>
-
----
-
-### 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gulsevim-blbl&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
-</p>
-
----
-
 ⭐️ From Gül with passion
